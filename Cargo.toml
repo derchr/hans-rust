@@ -1,0 +1,9 @@
+[package]
+name = "hans-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+panic-halt = "1.0.0"
+riscv = "0.14.0"
+riscv-rt = "0.15.0"
